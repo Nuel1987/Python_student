@@ -28,3 +28,10 @@ Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doe
 Outcomes 🎉
 
 By the end of this module, you’ll be skilled in managing files efficiently in Python, ensuring error-free code that gracefully handles unexpected issues. Mastering files and exception handling will allow you to build strong, robust applications!
+
+week 5
+Design Your Own Class! 🏗️
+Create a class representing anything you like (a Smartphone, Book, or even a Superhero!).
+Add attributes and methods to bring the class to life!
+Use constructors to initialize each object with unique values.
+Add an inheritance layer to explore polymorphism or encapsulation.
